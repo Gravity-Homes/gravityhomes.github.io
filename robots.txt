@@ -1,4 +1,5 @@
 User-agent: SiteAuditBot
 Allow: /
-User-agent: *
+
+User-agent: Googlebot
 Disallow: /
